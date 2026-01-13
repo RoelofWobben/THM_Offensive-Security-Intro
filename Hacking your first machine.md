@@ -28,7 +28,7 @@ You will see that Gobuster scans the website with each word in the list, finding
 
 From this page, an attacker has authorized access and can steal money from any bank account. 
 
-![bank](images/bank.png) 
+![bank](images/fakebank.png) 
 
 As an ethical hacker, you would (with permission) find vulnerabilities in their application and report them to the bank to fix them before a hacker exploits them.
 
