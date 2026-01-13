@@ -38,6 +38,14 @@ Go there now and confirm you got the money! (You may need to hit Refresh for the
 
 #Solution 
 
+![bank_transfer](images/bank_transfer.png)
+
+![bank_transfer_success](images/bank_transfer_success.png) 
+
+![bank_hacked](images/bank_hacked.png)
+
+
+
 
 
 
