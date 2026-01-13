@@ -6,5 +6,5 @@ Step 1. Open A Terminal
 
 A terminal, also known as the command line, allows us to interact with a computer without using a graphical user interface. On the machine, open the terminal by clicking on the Terminal icon on the right of the screen.
 
-!(images/terminal.png) 
+![terminal](images/terminal.png)
 
