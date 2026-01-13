@@ -26,7 +26,11 @@ You will see that Gobuster scans the website with each word in the list, finding
 
 ![gobuster_output](images/gobuster2.png)
 
-From this page, an attacker has authorized access and can steal money from any bank account. As an ethical hacker, you would (with permission) find vulnerabilities in their application and report them to the bank to fix them before a hacker exploits them.
+From this page, an attacker has authorized access and can steal money from any bank account. 
+
+![bank](images/bank.png) 
+
+As an ethical hacker, you would (with permission) find vulnerabilities in their application and report them to the bank to fix them before a hacker exploits them.
 
 Your mission is to transfer $2000 from bank account 2276 to your account (account number 8881). If your transfer was successful, you should now be able to see your new balance reflected on your account page.
 
