@@ -36,7 +36,7 @@ Your mission is to transfer $2000 from bank account 2276 to your account (accoun
 
 Go there now and confirm you got the money! (You may need to hit Refresh for the changes to appear)
 
-#Solution 
+# Solution 
 
 ![bank_transfer](images/bank_transfer.png)
 
