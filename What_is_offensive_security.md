@@ -9,4 +9,4 @@ Which of the following options better represents the process where you simulate 
 * Offensive Security
 * Defensive Security
 
-![answer_task_1](/images/answer_task_1.png)
+![answer_task_1](images/answer_task_1.png)
