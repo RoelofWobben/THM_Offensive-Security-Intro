@@ -18,7 +18,7 @@ To begin, type the following command into the terminal to find potentially hidde
 gobuster -u http://fakebank.thm -w wordlist.txt dir
 ```
 
-!(gobuster)[images/gobuster.png)
+![gobuster](images/gobuster.png)
 
 In the command above, '-u' is used to state the website we're scanning, -'w' takes a list of words to iterate through to find hidden pages.
 
